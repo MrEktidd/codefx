@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757020635
+icon.svg::CompressedTexture2D/CompressedTexture2D::7630204649690308968::1757013711::1757014350::1::::<><><>0<>0<>25d02bb2ac48a176c1423d60fa28900d<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://addons/::1757013755
+::res://addons/CodeFX/::1757020908
+CodeFXCore.gd::GDScript/GDScript::7575974068491313138::1757015880::0::1::::<>EditorPlugin<><>0<>1<><>::
+icon.png::CompressedTexture2D::4178789065756518687::1757020323::1757020329::1::::<><><>0<>0<>5fcb8283243baaac8366e0430e4b9601<>res://.godot/imported/icon.png-50ec64b70b9d796bbbdf6a993ead96c8.ctex::
+icon.svg::CompressedTexture2D::7550731371879325603::1757020908::1757020908::1::::<><><>0<>0<>6d15e7c1c3a7f40d0ea1d7012a0b9391<>res://.godot/imported/icon.svg-ec94e72bdf91a033837045ca26452974.ctex::
+plugin.cfg::TextFile/TextFile::-1::1757014285::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1757019447::0::1::::<><><>0<>0<><>::
+::res://addons/CodeFX/assets/::1757020351
+::res://addons/CodeFX/assets/sfx/::1757014350
+key_press.wav::AudioStreamWAV/AudioStreamWAV::8855499033999332427::1757013929::1757014350::1::::<><><>0<>0<>7237d546c95ff11bcf85de899f02bb99<>res://.godot/imported/key_press.wav-c027752a9ad1a889d4e331bb7448ee15.sample::
